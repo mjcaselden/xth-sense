@@ -1,0 +1,4 @@
+The fuse settings to use this firmware on an Atmel Atmega328 micro controller are as follows:
+
+High Fuse Byte:	0xd9
+Low Fuse Byte:	0x62
